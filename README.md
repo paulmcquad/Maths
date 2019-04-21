@@ -1,6 +1,6 @@
 # Maths
-Cover Fields of mathematics using Jupyter Notebooks
+Cover Fields of mathematics using Jupyter Notebooks/ Jupyter Lab
 
-# Launch Jupyter Notebooks
+# Launch Jupyter Lab
 
-jupyter notebook
+jupyter lab
